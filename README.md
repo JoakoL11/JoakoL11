@@ -17,6 +17,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-lightgrey)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-purple)](https://getbootstrap.com/)  
 [![Django](https://img.shields.io/badge/Django-darkgreen)](https://www.djangoproject.com/)
+[![Vue](https://img.shields.io/badge/Vue-lightgrey)](https://vuejs.org/)
 
 ### IDE:
 [![VSCode](https://img.shields.io/badge/VisualStudioCode-blue)](https://code.visualstudio.com/)  
