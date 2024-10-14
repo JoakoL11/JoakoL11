@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hola, soy Joaquin Lopez👋
 
-<!--
-**JoakoL11/JoakoL11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi 
+- Estudiante de Ingeniera en informatica en DuocUc
+- Desarrollador de software
+## Habilidades
+- Programación en **Java**, **Python**, y **JavaScript**
+- Desarrollo de aplicaciones móviles
+- Arquitectura de software
+- Gestión de bases de datos
+## Conocimientos
+### Lenguajes de Programación:
+[![Python](https://img.shields.io/badge/Python-red)](https://www.python.org/)  
+[![Java](https://img.shields.io/badge/Java-orange)](https://www.java.com/)  
+[![MySQL](https://img.shields.io/badge/MySQL-blue)](https://www.mysql.com/)  
+[![HTML](https://img.shields.io/badge/HTML5-yellow)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)  
+[![CSS](https://img.shields.io/badge/CSS-green)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-lightgrey)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-purple)](https://getbootstrap.com/)  
+[![Django](https://img.shields.io/badge/Django-darkgreen)](https://www.djangoproject.com/)
 
-Here are some ideas to get you started:
+### IDE:
+[![VSCode](https://img.shields.io/badge/VisualStudioCode-blue)](https://code.visualstudio.com/)  
+[![NetBeans](https://img.shields.io/badge/APACHE%20NETBEANS-lightblue)](https://netbeans.apache.org/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacto 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/joaqu%C3%ADn-l%C3%B3pez-9ba59b292/)
+[![Email](https://img.shields.io/badge/Email-red)](mailto:joaquinlopezguerraj@gmail.com)
