@@ -6,7 +6,6 @@
 ## Habilidades
 - Programación en **Java**, **Python**, y **JavaScript**
 - Desarrollo de aplicaciones móviles
-- Arquitectura de software
 - Gestión de bases de datos
 ## Conocimientos
 ### Lenguajes de Programación:
