@@ -24,5 +24,6 @@
 [![NetBeans](https://img.shields.io/badge/APACHE%20NETBEANS-lightblue)](https://netbeans.apache.org/)
 
 ## Contacto 
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/joako_Lopez)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/joaqu%C3%ADn-l%C3%B3pez-9ba59b292/)
 [![Email](https://img.shields.io/badge/Email-red)](mailto:joaquinlopezguerraj@gmail.com)
